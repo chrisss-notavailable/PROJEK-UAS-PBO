@@ -1,0 +1,108 @@
+{
+  "player": {
+    "x": 1135.2185604417969,
+    "y": 449.2185604417991,
+    "map_path": "C:\\CODE\\PBO FINAL PROJEK\\GAME\\assets\\maps\\Kamar_tidur.tmx"
+  },
+  "clock": {
+    "day_index": 4,
+    "game_hour": 7,
+    "game_minute": 12
+  },
+  "economy": {
+    "gold": 837
+  },
+  "inventory": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "hotbar": [
+    {
+      "name": "WATER_BUCKET",
+      "qty": 94,
+      "weight": 0.0
+    },
+    {
+      "name": "PUMPKIN_SEED",
+      "qty": 4,
+      "weight": 0.0
+    },
+    {
+      "name": "CARROT_SEED",
+      "qty": 8,
+      "weight": 0.0
+    },
+    {
+      "name": "RADISH_SEED",
+      "qty": 4,
+      "weight": 0.0
+    },
+    {
+      "name": "DAISY_SEED",
+      "qty": 4,
+      "weight": 0.0
+    }
+  ],
+  "farming": [],
+  "master_volume": {
+    "value": 0.0
+  }
+}
